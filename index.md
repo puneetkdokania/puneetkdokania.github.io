@@ -5,7 +5,7 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-I have been working as a _postdoctoral researcher_ at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/)  since 1st Aug 2016. I am also associated with an amazing startup based in Cambridge called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
+Hi, I have been working as a _postdoctoral researcher_ at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/)  since 1st Aug 2016. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
 
 Prior to this, I was part of the [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked towards my PhD under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
