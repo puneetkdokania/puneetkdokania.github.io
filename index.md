@@ -48,7 +48,7 @@ Arnab Ghosh, Viveka Kulharia, Vinay Namboodiri, Philip H. S. Torr, **_Puneet K. 
 10) `[NEW]` [**FlipDial: A Generative Model for Two-Way Visual Dialogue**](https://arxiv.org/abs/1802.03803)  
 Daniela Massiceti, N. Siddharth, **_Puneet K. Dokania_**, Philip H.S. Torr  
 **In CVPR 2018 (Oral)**, Salt Lake, USA   
-[\[Project Page\]](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
+[Project Page](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
 
 09) [**Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1707.05821.pdf)  
 A. Chaudhry, **_Puneet K. Dokania_**, Philip H. S. Torr  
@@ -80,40 +80,40 @@ In ICCV 2015, Santiago, Chile.
 03) [**Learning to Rank using High-Order Information**](http://mpawankumar.info/publications/DBJK-ECCV2014.pdf)  
 _**Puneet K. Dokania**_ , A. Behl, C. V. Jawahar and M. Pawan Kumar  
 In ECCV 2014, Zurich, Switzerland.  
-[\[Code\]](https://bitbucket.org/puneetkdokania/hoap_svm_code/overview)
+[Code](https://bitbucket.org/puneetkdokania/hoap_svm_code/overview)
 
 02) [**Learning-Based Approach for Online Lane Change Intention Prediction**](https://hal.inria.fr/hal-00821309/document)  
 _**P. Kumar**_ , M. Perrollaz, S. Lefevre and C. Laugier  
 In IEEE Intelligent Vehicle Symposium (IV) 2013, Gold Coast City, Australia.  
-[\[Video-1 (Best viewed in VLC)\]]() | [\[Video-2 (Best viewed in VLC)\]]()  
+[Video-1 (Best viewed in VLC)]() | [Video-2 (Best viewed in VLC)]()  
 
 01) [**Discriminative parameter estimation for random walks segmentation**](https://link.springer.com/chapter/10.1007/978-3-642-40760-4_28)  
 P. Y. Baudin, D. Goodman, _**P. Kumar**_ , N. Azzabou, P. G. Carlier, N. Paragios, M. Pawan Kumar  
 In MICCAI 2013, Nagoya, Japan.  
-[\[Technical Report\]](https://arxiv.org/pdf/1306.1083.pdf)
+[Technical Report](https://arxiv.org/pdf/1306.1083.pdf)
 
 Publications (Journals)
 ======
 03) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
-M. Pawan Kumar and _Puneet K. Dokania_  
+M. Pawan Kumar and **_Puneet K. Dokania_**  
 In JMLR 2016.
 
 02) [**High Dynamic Range Fuzzy Color Image Enhancement Using Ant Colony System**](https://www.sciencedirect.com/science/article/pii/S1568494611003164)  
-O. P. Verma, _P. Kumar_ , M. Hanmandlu, S. Chhabra  
+O. P. Verma, **_P. Kumar_** , M. Hanmandlu, S. Chhabra  
 In Journal of Applied Soft Computing, 2012.
 
 01) [**A Novel Bacterial Foraging Technique for Edge Detection**](https://www.sciencedirect.com/science/article/pii/S0167865511000730)  
-O. P. Verma, M. Hanmandlu, _P. Kumar_ , S. Chhabra, A. Jindal  
+O. P. Verma, M. Hanmandlu, **_P. Kumar_** , S. Chhabra, A. Jindal  
 In Pattern Recognition Letters, 2011.
 
 Technical Reports and Thesis
 ======
 02) [**High-Order Inference, Ranking, and Regularization Path for Structured SVM**](./data/publications/phd_thesis/DOKANIA_PHD_THESIS_2016.pdf)  
-Puneet Kumar Dokania, PhD Thesis 2016  
-[\[Slides\]](./data/publications/phd_thesis/DOKANIA_PHD_SLIDES_2016.pdf)
+**_Puneet Kumar Dokania_**, PhD Thesis 2016  
+[Slides](./data/publications/phd_thesis/DOKANIA_PHD_SLIDES_2016.pdf)
 
 01) [**Learning-Based Approach for Online Lane Change Intention Prediction**](./data/publications/masters_thesis_12/MastersThesis_Puneet.pdf)  
-Puneet Kumar, Master Thesis 2012.
+**_Puneet Kumar_**, Master Thesis 2012.
 <!--
 [1] Team Lakshya
 LAKSHYA The Unmanned Ground Vehicle Design Report.
