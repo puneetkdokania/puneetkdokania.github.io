@@ -70,40 +70,39 @@ In ECCV 2016, Amsterdam, the Netherlands.
 05) [**Minding the Gaps for Block Frank-Wolfe Optimization of Structured SVMs**](https://arxiv.org/abs/1605.09346)  
 A. Osokin, JB Alayrac, I. Lukasewitz, _**P. K. Dokania**_, S. Lacoste-Julien  
 In ICML 2016, New York City, USA.  
-[Project Page]()
+[Project Page](http://www.di.ens.fr/sierra/research/gapBCFW/)
 
-04) [**Parsimonious Labeling.**]()  
+04) [**Parsimonious Labeling.**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Dokania_Parsimonious_Labeling_ICCV_2015_paper.pdf)  
 _**Puneet K. Dokania**_ and M. Pawan Kumar  
 In ICCV 2015, Santiago, Chile.  
-[Report (refer Chapter 3 of my PhD thesis)]()
+[Report (refer Chapter 3 of my PhD thesis)](./data/publications/phd_thesis/DOKANIA_PHD_THESIS_2016.pdf)
 
-03) [**Learning to Rank using High-Order Information**]()  
+03) [**Learning to Rank using High-Order Information**](http://mpawankumar.info/publications/DBJK-ECCV2014.pdf)  
 _**Puneet K. Dokania**_ , A. Behl, C. V. Jawahar and M. Pawan Kumar  
 In ECCV 2014, Zurich, Switzerland.  
-[\[Code\]]() \| [\[Project Page\]][HOAP-PROJ] \| [\[Talk\]]()
-[HOAP-PROJ]: ./data/projects/ranking-highorder/ranking-highorder.html
+[\[Code\]](https://bitbucket.org/puneetkdokania/hoap_svm_code/overview)
 
-02) [**Learning-Based Approach for Online Lane Change Intention Prediction**]()  
+02) [**Learning-Based Approach for Online Lane Change Intention Prediction**](https://hal.inria.fr/hal-00821309/document)  
 _**P. Kumar**_ , M. Perrollaz, S. Lefevre and C. Laugier  
 In IEEE Intelligent Vehicle Symposium (IV) 2013, Gold Coast City, Australia.  
 [\[Video-1 (Best viewed in VLC)\]]() | [\[Video-2 (Best viewed in VLC)\]]()  
 
-01) [**Discriminative parameter estimation for random walks segmentation**]()  
+01) [**Discriminative parameter estimation for random walks segmentation**](https://link.springer.com/chapter/10.1007/978-3-642-40760-4_28)  
 P. Y. Baudin, D. Goodman, _**P. Kumar**_ , N. Azzabou, P. G. Carlier, N. Paragios, M. Pawan Kumar  
 In MICCAI 2013, Nagoya, Japan.  
-[\[Technical Report\]]()
+[\[Technical Report\]](https://arxiv.org/pdf/1306.1083.pdf)
 
 Publications (Journals)
 ======
-03) [**Rounding-based Moves for Semi-Metric Labeling**]()  
+03) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
 M. Pawan Kumar and _Puneet K. Dokania_  
 In JMLR 2016.
 
-02) [**High Dynamic Range Fuzzy Color Image Enhancement Using Ant Colony System**]()  
+02) [**High Dynamic Range Fuzzy Color Image Enhancement Using Ant Colony System**](https://www.sciencedirect.com/science/article/pii/S1568494611003164)  
 O. P. Verma, _P. Kumar_ , M. Hanmandlu, S. Chhabra  
 In Journal of Applied Soft Computing, 2012.
 
-01) [**A Novel Bacterial Foraging Technique for Edge Detection**]()  
+01) [**A Novel Bacterial Foraging Technique for Edge Detection**](https://www.sciencedirect.com/science/article/pii/S0167865511000730)  
 O. P. Verma, M. Hanmandlu, _P. Kumar_ , S. Chhabra, A. Jindal  
 In Pattern Recognition Letters, 2011.
 
