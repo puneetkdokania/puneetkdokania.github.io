@@ -33,14 +33,12 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 [comment]: [\[Code\]]() \| [\[Project Page\]]() \| [\[Talk\]]()
 
-# Under Progress/Submission
-
-1) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
-arXiv, Jan 2018   
-Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
-
 Publications (Conferences)
 ============
+12) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
+Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
+**Accepted in ECCV 2018**, Munich, Germany
+
 11) `[NEW]` [**Multi-Agent Diverse Generative Adversarial Networks**](https://arxiv.org/abs/1704.02906)  
 Arnab Ghosh, Viveka Kulharia, Vinay Namboodiri, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In CVPR 2018 (Spotlight)**, Salt Lake, USA
