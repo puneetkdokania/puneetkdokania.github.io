@@ -11,7 +11,7 @@ Prior to this, I was part of the [CVN](http://cvn.centralesupelec.fr/) group of 
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
-* Incremental Learning: [RWalk][RWalk]
+* Incremental Learning: [RWalk (ECCV18)][RWalk]
 * Generative Models: [MAD-GAN (CVPR18)][MAD-GAN]
 * Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
 * Weakly supervised semantic segmentation: [BMVC17][DCSP], [EMMCVPR17][MiningPixels]
