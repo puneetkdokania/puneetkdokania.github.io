@@ -37,7 +37,7 @@ Publications (Conferences)
 ============
 12) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
 Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
-**Accepted in ECCV 2018**, Munich, Germany   
+**In ECCV 2018**, Munich, Germany   
 [Slides](./data/DokaniaTalk-RWalk.pdf)
 
 11) `[NEW]` [**Multi-Agent Diverse Generative Adversarial Networks**](https://arxiv.org/abs/1704.02906)  
