@@ -54,20 +54,20 @@ A. Chaudhry, **_Puneet K. Dokania_**, Philip H. S. Torr
 **In BMVC 2017 (Oral)**, London, U.K.
 
 08) [**Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1612.02101.pdf)  
-Q. Hou*, D. Massiceti*, **_P. K. Dokania_**, Y. Wei, M-M. Cheng, Philip H. S. Torr  
+Q. Hou*, D. Massiceti*, **_Puneet K. Dokania_**, Y. Wei, M-M. Cheng, Philip H. S. Torr  
 In EMMCVPR 2017, Venice, Italy.
 
 07) [**Deformable Registration through Learning of Context-Specific Metric Aggregation**](https://arxiv.org/pdf/1707.06263.pdf)  
-E. Ferrante\*, **_P. K. Dokania\*_**, R. Marini, N. Paragios  
+E. Ferrante\*, **_Puneet K. Dokania\*_**, R. Marini, N. Paragios  
 In MLMI MICCAI 2017, Quebec, Canada.  
 
 06) [**Partial Linearization based Optimization for Multi-class SVM**](http://mpawankumar.info/publications/MDJK-ECCV2016.pdf)  
-P. Mohapatra, _**P. K. Dokania**_, C. V. Jawahar, M. P. Kumar  
+P. Mohapatra, _**Puneet K. Dokania**_, C. V. Jawahar, M. P. Kumar  
 In ECCV 2016, Amsterdam, the Netherlands.  
 [Supplementary](http://mpawankumar.info/publications/MDJK-ECCV2016-SUPMAT.pdf) | [Poster](http://www.eccv2016.org/files/posters/P-4B-25.pdf)
 
 05) [**Minding the Gaps for Block Frank-Wolfe Optimization of Structured SVMs**](https://arxiv.org/abs/1605.09346)  
-A. Osokin, JB Alayrac, I. Lukasewitz, _**P. K. Dokania**_, S. Lacoste-Julien  
+A. Osokin, JB Alayrac, I. Lukasewitz, _**Puneet K. Dokania**_, S. Lacoste-Julien  
 In ICML 2016, New York City, USA.  
 [Project Page](http://www.di.ens.fr/sierra/research/gapBCFW/)
 
@@ -82,19 +82,19 @@ In ECCV 2014, Zurich, Switzerland.
 [Code](https://bitbucket.org/puneetkdokania/hoap_svm_code/overview)
 
 02) [**Learning-Based Approach for Online Lane Change Intention Prediction**](https://hal.inria.fr/hal-00821309/document)  
-_**P. Kumar**_ , M. Perrollaz, S. Lefevre and C. Laugier  
+_**Puneet Kumar**_ , M. Perrollaz, S. Lefevre and C. Laugier  
 In IEEE Intelligent Vehicle Symposium (IV) 2013, Gold Coast City, Australia.  
 [Video-1 (Best viewed in VLC)]() | [Video-2 (Best viewed in VLC)]()  
 
 01) [**Discriminative parameter estimation for random walks segmentation**](https://link.springer.com/chapter/10.1007/978-3-642-40760-4_28)  
-P. Y. Baudin, D. Goodman, _**P. Kumar**_ , N. Azzabou, P. G. Carlier, N. Paragios, M. Pawan Kumar  
+P. Y. Baudin, D. Goodman, _**Puneet Kumar**_ , N. Azzabou, P. G. Carlier, N. Paragios, M. Pawan Kumar  
 In MICCAI 2013, Nagoya, Japan.  
 [Technical Report](https://arxiv.org/pdf/1306.1083.pdf)
 
 Publications (Journals)
 ======
 04) `[NEW]` [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
-E. Ferrante, _**P. K. Dokania**_, R. M. Silva, N. Paragios  
+Enzo Ferrante, _**Puneet K. Dokania**_, Rafael M. Silva, N. Paragios  
 In IEEE Journal of Biomedical and Health Informatics, 2018.
 
 03) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
