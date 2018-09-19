@@ -93,6 +93,10 @@ In MICCAI 2013, Nagoya, Japan.
 
 Publications (Journals)
 ======
+04) `[NEW]` [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
+E. Ferrante, P. K. Dokania, R. M. Silva, N. Paragios  
+In IEEE Journal of Biomedical and Health Informatics, 2018.
+
 03) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
 M. Pawan Kumar and **_Puneet K. Dokania_**  
 In JMLR 2016.
