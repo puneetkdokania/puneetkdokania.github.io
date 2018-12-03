@@ -35,7 +35,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Publications (Conferences)
 ============
-13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0)
+13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0)  
 Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr
 **In NIPS-WS 2018**,  Montréal, Canada
 
