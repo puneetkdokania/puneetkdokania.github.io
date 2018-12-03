@@ -37,7 +37,7 @@ Publications (Conferences)
 ============
 13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0)  
 Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
-**In NIPS-WS 2018**,  Montréal, Canada
+**In NIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
 
 12) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
 Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
