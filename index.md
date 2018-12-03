@@ -13,7 +13,7 @@ Prior to this, I was part of the [CVN](http://cvn.centralesupelec.fr/) group of 
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
 * Incremental Learning: [RWalk (ECCV18)][RWalk]
 * Generative Models: [MAD-GAN (CVPR18)][MAD-GAN]
-* Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
+* Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/), [CCA-VD (NIPS-WS18)](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0)
 * Weakly supervised semantic segmentation: [BMVC17][DCSP], [EMMCVPR17][MiningPixels]
 * High-Order Inference: [Parsimonious Labeling (ICCV15)](https://arxiv.org/abs/1507.01208)
 * Structured Prediction: [HOAP-SVM (ECCV14)](https://hal.inria.fr/hal-01076220/document), [ECCV16](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_51), [ICML16](http://www.di.ens.fr/sierra/research/gapBCFW/)
@@ -35,6 +35,10 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Publications (Conferences)
 ============
+13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0) 
+Daniela Massiceti\*, **_Puneet K. Dokania_**, N. Siddharth\*, Philip H.S. Torr
+**In NIPS-WS 2018**,  Montréal, Canada
+
 12) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
 Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
 **In ECCV 2018**, Munich, Germany   
