@@ -5,15 +5,16 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I have been working as a _postdoctoral researcher_ at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/)  since 1st Aug 2016. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
+Hi, I have been working as a _senior researcher_ at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/)  since 1st March 2019. Prior to this, I was a postdoctoral researcher in the same group from 1st Aug 2016 to 28th Feb 2019. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
 
-Prior to this, I was part of the [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked towards my PhD under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
+During my PhD, I was a part of the [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
-* Incremental Learning: [RWalk (ECCV18)][RWalk]
+* Neural Network Discretization: [ProxMeanField][https://arxiv.org/pdf/1812.04353.pdf]
+* Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic][https://arxiv.org/abs/1902.10486]
 * Generative Models: [MAD-GAN (CVPR18)][MAD-GAN]
-* Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/), [CCA-VD (NIPS-WS18)](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0)  
+* Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/), [CCA-VD (NIPS-WS18)](https://arxiv.org/pdf/1812.06417.pdf)  
 * Weakly supervised semantic segmentation: [BMVC17][DCSP], [EMMCVPR17][MiningPixels]
 * High-Order Inference: [Parsimonious Labeling (ICCV15)](https://arxiv.org/abs/1507.01208)
 * Structured Prediction: [HOAP-SVM (ECCV14)](https://hal.inria.fr/hal-01076220/document), [ECCV16](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_51), [ICML16](http://www.di.ens.fr/sierra/research/gapBCFW/)
@@ -24,7 +25,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 [MiningPixels]: https://arxiv.org/pdf/1612.02101.pdf  
 
 
-# Students (jointly with Prof. Philip Torr)
+# Students (jointly with Prof. Philip Torr) 
 * [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student since Jan 2017)
 * [Arnab Ghosh](http://arnabgho.github.io/) (Intern, Jan-July 2017)
 * Anuj Sharma (Masters thesis intern, Feb-Aug 2017), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
@@ -33,9 +34,16 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 [comment]: [\[Code\]]() \| [\[Project Page\]]() \| [\[Talk\]]()
 
+# Preprints 
+2) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
+Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania\*_**, Philip H. S. Torr, Marc'Aurelio Ranzato
+
+1) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
+Thalaiyasingam Ajanthan, **_Puneet K. Dokania\*_**, Richard Hartley, Philip H. S. Torr
+
 Publications (Conferences)
 ============
-13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://www.dropbox.com/s/cuyvqvwb84inykb/CRACT_2018_paper_41.pdf?dl=0)  
+13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
 Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
 **In NIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
 
