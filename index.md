@@ -5,9 +5,9 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I have been working as a _senior researcher_ at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/)  since 1st March 2019. Prior to this, I was a postdoctoral researcher in the same group from 1st Aug 2016 to 28th Feb 2019. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
+Hi, I have been working as a _senior researcher_ at [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/)  since 1st March 2019. Prior to this, I was a postdoctoral researcher in the same group from 1st Aug 2016 to 28th Feb 2019. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
 
-During my PhD, I was a part of the [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
+During my PhD, I was a part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
