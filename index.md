@@ -36,10 +36,10 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 # Preprints 
 2) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
-Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania\*_**, Philip H. S. Torr, Marc'Aurelio Ranzato
+Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato
 
 1) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
-Thalaiyasingam Ajanthan, **_Puneet K. Dokania\*_**, Richard Hartley, Philip H. S. Torr
+Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr
 
 Publications (Conferences)
 ============
