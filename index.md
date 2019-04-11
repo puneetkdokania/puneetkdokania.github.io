@@ -5,7 +5,7 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I have been working as a _postdoctoral researcher_ at [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) since 1st Aug 2016. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
+Hi, I have been working as a _senior researcher_ in computer vision and machine learning at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) since 1st March 2019. Prior to that, I was a postdoctoral researcher in the same group from 1st Aug 2016 to 28th Feb 2019. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
 
 During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
@@ -25,9 +25,21 @@ I work in the field of machine learning (optimization, deep learning, generative
 [MiningPixels]: https://arxiv.org/pdf/1612.02101.pdf  
 
 
-# Students (jointly with Prof. Philip Torr) 
+# Amazing PhD Students I closely work with (jointly with Prof. Philip Torr) 
 * [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student since Jan 2017)
-* [Arnab Ghosh](http://arnabgho.github.io/) (Intern, Jan-July 2017)
+* [Viveka Kulharia](http://vivkul.github.io/) (working since September 2017)
+* [Arnab Ghosh](http://arnabgho.github.io/) (Intern Jan-July 2017, then joined as a PhD student in TVG)
+* [Amartya Sanyal](https://amartya18x.github.io/) (working since August 2018)
+* [Daniela Massiceti](http://www.robots.ox.ac.uk/~daniela/about) (working since October 2016)
+* [Jishnu Mukhoti](https://omegafragger.github.io/) (Internship student since Sept 2018)
+
+# I am fortunate to have following amazing external collaborators
+* [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/)
+* [Oliver Wang](http://www.oliverwang.info/)
+* [Richard Zhang](https://richzhang.github.io/)
+* [Thalaiyasingam Ajanthan](https://tajanthan.github.io/) (since August 2017, now in ANU)
+
+# Past Students (jointly with Prof. Philip Torr) 
 * Anuj Sharma (Masters thesis intern, Feb-Aug 2017), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
 
 [comment]: <> ( <span style="color:red">_\[NEW\]_</span> )
