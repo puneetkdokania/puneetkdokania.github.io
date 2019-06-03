@@ -46,19 +46,28 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 [comment]: [\[Code\]]() \| [\[Project Page\]]() \| [\[Talk\]]()
 
-# Preprints 
-2) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
-Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato
-
+Preprints
+============
 1) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
 Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr
 
+Publications (Workshops)
+============
+3) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks**]()  
+Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
+**In ICML 2019 Workshop**, Understanding and Improving Generalization in Deep Learning,  Long Beach, USA
+
+2) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
+Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato  
+**In ICML 2019 Workshop**, MTLRL2019: Workshop on Multi-Task and Lifelong Reinforcement Learning, Long Beach, USA
+
+1) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
+Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
+**In NeurIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
+
+
 Publications (Conferences)
 ============
-13) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
-Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
-**In NIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
-
 12) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
 Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
 **In ECCV 2018**, Munich, Germany   
