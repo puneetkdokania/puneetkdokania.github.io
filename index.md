@@ -48,12 +48,16 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
-1) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
+2) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
 Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr
+
+1) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
+Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**   
+
 
 Publications (Workshops)
 ============
-3) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks**]()  
+3) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ICML 2019 Workshop**, Understanding and Improving Generalization in Deep Learning,  Long Beach, USA
 
