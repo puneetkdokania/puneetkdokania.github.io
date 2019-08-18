@@ -48,9 +48,6 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
-2) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
-Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr
-
 1) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**   
 
@@ -65,23 +62,31 @@ Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**
 Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato  
 **In ICML 2019 Workshop**, MTLRL2019: Workshop on Multi-Task and Lifelong Reinforcement Learning, Long Beach, USA
 
-1) `[NEW]` [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
+1) [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
 Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
 **In NeurIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
 
 
 Publications (Conferences)
 ============
-12) `[NEW]` [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
+14) `[NEW]` [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**]()  
+Arnab Ghost, Richard Zhang, **_Puneet K. Dokania_**, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman  
+**In ICCV 2019**, Seoul, Korea 
+
+13) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
+Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr  
+**In ICCV 2019**, Seoul, Korea 
+
+12) [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
 Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
 **In ECCV 2018**, Munich, Germany   
 [Slides](./data/DokaniaTalk-RWalk.pdf)
 
-11) `[NEW]` [**Multi-Agent Diverse Generative Adversarial Networks**](https://arxiv.org/abs/1704.02906)  
+11) [**Multi-Agent Diverse Generative Adversarial Networks**](https://arxiv.org/abs/1704.02906)  
 Arnab Ghosh, Viveka Kulharia, Vinay Namboodiri, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In CVPR 2018 (Spotlight)**, Salt Lake, USA
 
-10) `[NEW]` [**FlipDial: A Generative Model for Two-Way Visual Dialogue**](https://arxiv.org/abs/1802.03803)  
+10) [**FlipDial: A Generative Model for Two-Way Visual Dialogue**](https://arxiv.org/abs/1802.03803)  
 Daniela Massiceti, N. Siddharth, **_Puneet K. Dokania_**, Philip H.S. Torr  
 **In CVPR 2018 (Oral)**, Salt Lake, USA   
 [Project Page](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
