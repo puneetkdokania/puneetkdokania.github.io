@@ -11,8 +11,8 @@ During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INR
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
-* Neural Network Discretization: [ProxMeanField](https://arxiv.org/pdf/1812.04353.pdf)
-* Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic](https://arxiv.org/abs/1902.10486)
+* Neural Network Discretization: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf)
+* Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic (ICML19-WS)](https://arxiv.org/abs/1902.10486)
 * Generative Models: [MAD-GAN (CVPR18)][MAD-GAN]
 * Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/), [CCA-VD (NIPS-WS18)](https://arxiv.org/pdf/1812.06417.pdf)  
 * Weakly supervised semantic segmentation: [BMVC17][DCSP], [EMMCVPR17][MiningPixels]
