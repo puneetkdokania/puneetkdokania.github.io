@@ -70,7 +70,7 @@ Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr
 Publications (Conferences)
 ============
 14) `[NEW]` [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**]()  
-Arnab Ghost, Richard Zhang, **_Puneet K. Dokania_**, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman  
+Arnab Ghosh, Richard Zhang, **_Puneet K. Dokania_**, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman  
 **In ICCV 2019**, Seoul, Korea 
 
 13) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
