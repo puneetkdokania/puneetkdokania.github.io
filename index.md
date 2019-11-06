@@ -49,7 +49,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 Preprints
 ============
 2) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
-Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Richard Hartley, Philip H. S. Torr, **_Puneet K. Dokania_**  
+Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
 
 1) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**   
