@@ -48,11 +48,8 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
-2) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
+1) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
-
-1) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
-Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**   
 
 
 Publications (Workshops)
@@ -72,6 +69,10 @@ Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr
 
 Publications (Conferences)
 ============
+15) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
+Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
+**In ICLR 2020 (Spotlight)**, Addis Ababa Ethiopia  
+
 14) `[NEW]` [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**](https://arxiv.org/pdf/1909.11081.pdf)  
 Arnab Ghosh, Richard Zhang, **_Puneet K. Dokania_**, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman  
 **In ICCV 2019**, Seoul, Korea     
