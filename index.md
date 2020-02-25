@@ -49,10 +49,10 @@ I work in the field of machine learning (optimization, deep learning, generative
 Preprints
 ============
 4) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
-Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania**_  
+Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 
 3) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
-Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania**_  
+Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
 [Project Page](https://amartya18x.github.io/post/lr_layer/)  
 
 2) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
