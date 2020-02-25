@@ -62,20 +62,6 @@ Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lope
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
 
 
-Publications (Workshops)
-============
-3) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
-Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
-**In ICML 2019 Workshop**, Understanding and Improving Generalization in Deep Learning,  Long Beach, USA
-
-2) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
-Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato  
-**In ICML 2019 Workshop**, MTLRL2019: Workshop on Multi-Task and Lifelong Reinforcement Learning, Long Beach, USA
-
-1) [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
-Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
-**In NeurIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
-
 
 Publications (Conferences)
 ============
@@ -148,21 +134,35 @@ P. Y. Baudin, D. Goodman, _**Puneet Kumar**_ , N. Azzabou, P. G. Carlier, N. Par
 In MICCAI 2013, Nagoya, Japan.  
 [Technical Report](https://arxiv.org/pdf/1306.1083.pdf)
 
+Publications (Workshops)
+============
+3) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
+Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
+**In ICML 2019 Workshop**, Understanding and Improving Generalization in Deep Learning,  Long Beach, USA
+
+2) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
+Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato  
+**In ICML 2019 Workshop**, MTLRL2019: Workshop on Multi-Task and Lifelong Reinforcement Learning, Long Beach, USA
+
+1) [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
+Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
+**In NeurIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
+
 Publications (Journals)
 ======
-04) `[NEW]` [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
+4) `[NEW]` [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
 Enzo Ferrante, _**Puneet K. Dokania**_, Rafael M. Silva, N. Paragios  
 In IEEE Journal of Biomedical and Health Informatics, 2018.
 
-03) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
+3) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
 M. Pawan Kumar and **_Puneet K. Dokania_**  
 In JMLR 2016.
 
-02) [**High Dynamic Range Fuzzy Color Image Enhancement Using Ant Colony System**](https://www.sciencedirect.com/science/article/pii/S1568494611003164)  
+2) [**High Dynamic Range Fuzzy Color Image Enhancement Using Ant Colony System**](https://www.sciencedirect.com/science/article/pii/S1568494611003164)  
 O. P. Verma, **_P. Kumar_** , M. Hanmandlu, S. Chhabra  
 In Journal of Applied Soft Computing, 2012.
 
-01) [**A Novel Bacterial Foraging Technique for Edge Detection**](https://www.sciencedirect.com/science/article/pii/S0167865511000730)  
+1) [**A Novel Bacterial Foraging Technique for Edge Detection**](https://www.sciencedirect.com/science/article/pii/S0167865511000730)  
 O. P. Verma, M. Hanmandlu, **_P. Kumar_** , S. Chhabra, A. Jindal  
 In Pattern Recognition Letters, 2011.
 
