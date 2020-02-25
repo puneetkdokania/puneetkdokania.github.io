@@ -92,8 +92,7 @@ Daniela Massiceti, N. Siddharth, **_Puneet K. Dokania_**, Philip H.S. Torr
 **In CVPR 2018 (Oral)**, Salt Lake, USA   
 [Project Page](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
 
-09) [**Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1707.05821.pdf)  
-A. Chaudhry, **_Puneet K. Dokania_**, Philip H. S. Torr  
+09) [**Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1707.05821.pdf)  A. Chaudhry, **_Puneet K. Dokania_**, Philip H. S. Torr  
 **In BMVC 2017 (Oral)**, London, U.K.
 
 08) [**Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1612.02101.pdf)  
