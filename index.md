@@ -5,7 +5,7 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principla researcher_ at an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars.
+Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars.
 
 During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
@@ -79,12 +79,12 @@ Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ICLR 2020 (Spotlight)**, Addis Ababa Ethiopia  
 
-14) `[NEW]` [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**](https://arxiv.org/pdf/1909.11081.pdf)  
+14) [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**](https://arxiv.org/pdf/1909.11081.pdf)  
 Arnab Ghosh, Richard Zhang, **_Puneet K. Dokania_**, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman  
 **In ICCV 2019**, Seoul, Korea     
 [Project Page](https://arnabgho.github.io/iSketchNFill/)
 
-13) `[NEW]` [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
+13) [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
 Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr  
 **In ICCV 2019**, Seoul, Korea 
 
