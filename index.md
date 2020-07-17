@@ -5,7 +5,7 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I have been working as a _senior researcher_ in computer vision and machine learning at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) since 1st March 2019. Prior to that, I was a postdoctoral researcher in the same group from 1st Aug 2016 to 28th Feb 2019. I am also associated with an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars. 
+Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principla researcher_ at an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars.
 
 During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
@@ -48,6 +48,12 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
+06) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
+Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
+
+05) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
+Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
+
 04) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 
@@ -65,6 +71,10 @@ Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, *
 
 Publications (Conferences)
 ============
+16) `[NEW]` [**Greedy Sampler and Dumb Learner: Suprisingly Effective Approach for Continual Learning**]()  
+Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**  
+**In ECCV 2020 (Oral)**
+
 15) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ICLR 2020 (Spotlight)**, Addis Ababa Ethiopia  
@@ -135,11 +145,15 @@ In MICCAI 2013, Nagoya, Japan.
 
 Publications (Workshops)
 ============
-03) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
+04) `[NEW]` [**On using Focal Loss for Neural Network Calibration**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-012.pdf)  
+Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
+**In ICML 2020 Workshop (Spotlight)**, Uncertainty and Robustness in Deep Learning
+
+03) [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ICML 2019 Workshop**, Understanding and Improving Generalization in Deep Learning,  Long Beach, USA
 
-02) `[NEW]` [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
+02) [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
 Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato  
 **In ICML 2019 Workshop**, MTLRL2019: Workshop on Multi-Task and Lifelong Reinforcement Learning, Long Beach, USA
 
