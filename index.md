@@ -163,7 +163,7 @@ Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr
 
 Publications (Journals)
 ======
-04) `[NEW]` [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
+04) [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
 Enzo Ferrante, _**Puneet K. Dokania**_, Rafael M. Silva, N. Paragios  
 In IEEE Journal of Biomedical and Health Informatics, 2018.
 
