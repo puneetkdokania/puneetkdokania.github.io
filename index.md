@@ -71,7 +71,7 @@ Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, *
 
 Publications (Conferences)
 ============
-16) `[NEW]` [**Greedy Sampler and Dumb Learner: Suprisingly Effective Approach for Continual Learning**]()  
+16) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]()  
 Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ECCV 2020 (Oral)**
 
