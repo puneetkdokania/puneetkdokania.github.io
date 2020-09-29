@@ -48,14 +48,11 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
-06) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
+05) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
 Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
 
-05) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
+04) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
 Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
-
-04) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
-Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 
 03) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
 Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
@@ -71,6 +68,14 @@ Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, *
 
 Publications (Conferences)
 ============
+18) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
+Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
+**In NeurIPS 2020 **
+
+17) `[NEW]` [**Continual Learning in Low-rank Orthogonal Subspaces**]()  
+Arslan Chaudhry, Naeemullah Khan, **_Puneet K. Dokania_**, Philip H.S. Torr  
+**In NeurIPS 2020 **
+
 16) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]()  
 Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ECCV 2020 (Oral)**
