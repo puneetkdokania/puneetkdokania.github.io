@@ -70,11 +70,11 @@ Publications (Conferences)
 ============
 18) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
-**In NeurIPS 2020 **  
+**In NeurIPS 2020**  
 
 17) `[NEW]` [**Continual Learning in Low-rank Orthogonal Subspaces**]()  
 Arslan Chaudhry, Naeemullah Khan, **_Puneet K. Dokania_**, Philip H.S. Torr  
-**In NeurIPS 2020 **  
+**In NeurIPS 2020**  
 
 16) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]()  
 Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**  
