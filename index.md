@@ -48,18 +48,15 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
-05) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
+04) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
 Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
 
-04) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
+03) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
 Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
 
-03) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
+02) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
 Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
 [Project Page](https://amartya18x.github.io/post/lr_layer/)  
-
-02) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
-Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lopez-Paz  
 
 01) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
@@ -68,6 +65,10 @@ Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, *
 
 Publications (Conferences)
 ============
+19) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
+Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lopez-Paz  
+** In AAAI 2021 (to appear)**  
+
 18) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 **In NeurIPS 2020**  
