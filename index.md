@@ -5,15 +5,16 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at an amazing startup based in Cambridge (U.K.) called [FiveAI](http://www.five.ai/) where we are trying to build driverless cars.
+Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at an amazing startup based in Cambridge (U.K.) called [Five AI](http://www.five.ai/) where we are trying to build driverless cars.
 
 During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
-* Neural Network Discretization: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf)
-* Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic (ICML19-WS)](https://arxiv.org/abs/1902.10486)
-* Generative Models: [MAD-GAN (CVPR18)][MAD-GAN]
+* NN Robustness: [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Benign Overfitting](https://arxiv.org/pdf/2007.04028.pdf), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
+* Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic (ICML19-WS)](https://arxiv.org/abs/1902.10486), [GDumb (ECCV20)](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf), [Orthog-CL (NeurIPS20)](https://papers.nips.cc/paper/2020/file/70d85f35a1fdc0ab701ff78779306407-Paper.pdf), [Hindsight (AAAI 21)](https://arxiv.org/pdf/2002.08165.pdf)
+* Neural Network Discretization/Pruning: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf), [MD](https://arxiv.org/pdf/1910.08237.pdf), [FORCE](https://arxiv.org/pdf/2006.09081.pdf)
+* Generative Models: [MAD-GAN (CVPR18)][MAD-GAN], [Interactive Sketch (ICCV19)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ghosh_Interactive_Sketch__Fill_Multiclass_Sketch-to-Image_Translation_ICCV_2019_paper.pdf)
 * Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/), [CCA-VD (NIPS-WS18)](https://arxiv.org/pdf/1812.06417.pdf)  
 * Weakly supervised semantic segmentation: [BMVC17][DCSP], [EMMCVPR17][MiningPixels]
 * High-Order Inference: [Parsimonious Labeling (ICCV15)](https://arxiv.org/abs/1507.01208)
@@ -25,22 +26,16 @@ I work in the field of machine learning (optimization, deep learning, generative
 [MiningPixels]: https://arxiv.org/pdf/1612.02101.pdf  
 
 
-# Amazing PhD Students I closely work with (jointly with Prof. Philip Torr) 
-* [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student since Jan 2017)
+# Amazing PhD Students I closely work with 
 * [Viveka Kulharia](http://vivkul.github.io/) (working since September 2017)
 * [Arnab Ghosh](http://arnabgho.github.io/) (Intern Jan-July 2017, then joined as a PhD student in TVG)
 * [Amartya Sanyal](https://amartya18x.github.io/) (working since August 2018)
-* [Daniela Massiceti](http://www.robots.ox.ac.uk/~daniela/about) (working since October 2016)
 * [Jishnu Mukhoti](https://omegafragger.github.io/) (Internship student since Sept 2018)
 
-# I am fortunate to have following amazing external collaborators
-* [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/)
-* [Oliver Wang](http://www.oliverwang.info/)
-* [Richard Zhang](https://richzhang.github.io/)
-* [Thalaiyasingam Ajanthan](https://tajanthan.github.io/) (since August 2017, now in ANU)
-
-# Past Students (jointly with Prof. Philip Torr) 
-* Anuj Sharma (Masters thesis intern, Feb-Aug 2017), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
+# Past Students 
+* [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student, Jan 2017 to Nov 2020. Will join DeepMind)
+* [Daniela Massiceti](http://www.robots.ox.ac.uk/~daniela/about) (from October 2016 until Dec 2018. Moved to MSR Cambridge)
+* Anuj Sharma (Masters thesis intern, Feb-Aug 2017, moved to Five AI), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
 
 [comment]: <> ( <span style="color:red">_\[NEW\]_</span> )
 
