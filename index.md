@@ -43,11 +43,6 @@ I work in the field of machine learning (optimization, deep learning, generative
 
 Preprints
 ============
-04) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
-Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
-
-03) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
-Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
 
 02) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
 Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
@@ -57,9 +52,20 @@ Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
 
 
-
 Publications (Conferences)
 ============
+22) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
+Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
+**In ICLR 2021 (to appear)**  
+
+21) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
+Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
+**In ICLR 2021 Spotlight (to appear)**  
+
+20) `[NEW]` [**Amending Mistakes Post-hoc in Deep Networks by Leveraging Class Hierarchies**]()  
+Shyamgopal Karthik, Ameya Prabhu, **_Puneet K. Dokania_** , Vineet Gandhi  
+**In ICLR 2021 (to appear)**  
+
 19) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
 Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lopez-Paz  
 **In AAAI 2021 (to appear)**  
@@ -146,6 +152,18 @@ In MICCAI 2013, Nagoya, Japan.
 
 Publications (Workshops)
 ============
+07) `[NEW]` [**On Batch Normalisation for Approximate Bayesian Inference**](https://arxiv.org/pdf/2012.13220.pdf)  
+Jishnu Mukhoti, **_Puneet K. Dokania_**, Philip H.S. Torr, Yarin Gal  
+**In 3rd Symposium on Advances in Approximate Bayesian Inference 2020**  
+
+06) `[NEW]` [**Choice of Representation Matter for Adversarial Robustness**]()  
+Amartya Sanyal, Varun Kanade, **_Puneet K. Dokania_**, Philip H.S. Torr    
+**In NeurIPS 2020 Workshop**, Interpretable Inductive Biases and Physically Structured Learning   
+
+05) `[NEW]` [**Interpolation Noisy Datasets hurt Adversarial Robustness**]()  
+Amartya Sanyal, Varun Kanade, **_Puneet K. Dokania_**, Philip H.S. Torr    
+**In NeurIPS 2020 Workshop**, Dataset Curation and Security  
+ 
 04) `[NEW]` [**On using Focal Loss for Neural Network Calibration**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-012.pdf)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 **In ICML 2020 Workshop (Spotlight)**, Uncertainty and Robustness in Deep Learning
