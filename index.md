@@ -11,9 +11,9 @@ During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INR
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
-* NN Robustness: [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Benign Overfitting](https://arxiv.org/pdf/2007.04028.pdf), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
+* NN Robustness: [Benign Overfitting (ICLR21)](https://arxiv.org/pdf/2007.04028.pdf), [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
 * Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic (ICML19-WS)](https://arxiv.org/abs/1902.10486), [GDumb (ECCV20)](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf), [Orthog-CL (NeurIPS20)](https://papers.nips.cc/paper/2020/file/70d85f35a1fdc0ab701ff78779306407-Paper.pdf), [Hindsight (AAAI 21)](https://arxiv.org/pdf/2002.08165.pdf)
-* Neural Network Discretization/Pruning: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf), [MD](https://arxiv.org/pdf/1910.08237.pdf), [FORCE](https://arxiv.org/pdf/2006.09081.pdf)
+* Neural Network Discretization/Pruning: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf), [MD](https://arxiv.org/pdf/1910.08237.pdf), [FORCE (ICLR21)](https://arxiv.org/pdf/2006.09081.pdf)
 * Generative Models: [MAD-GAN (CVPR18)][MAD-GAN], [Interactive Sketch (ICCV19)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ghosh_Interactive_Sketch__Fill_Multiclass_Sketch-to-Image_Translation_ICCV_2019_paper.pdf)
 * Vision and Language: [Flip-Dial (CVPR18)](http://www.robots.ox.ac.uk/~daniela/research/flipdial/), [CCA-VD (NIPS-WS18)](https://arxiv.org/pdf/1812.06417.pdf)  
 * Weakly supervised semantic segmentation: [BMVC17][DCSP], [EMMCVPR17][MiningPixels]
