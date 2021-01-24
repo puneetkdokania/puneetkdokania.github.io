@@ -44,16 +44,17 @@ I work in the field of machine learning (optimization, deep learning, generative
 Preprints
 ============
 
-02) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
+01) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
 Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
 [Project Page](https://amartya18x.github.io/post/lr_layer/)  
-
-01) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
-Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
 
 
 Publications (Conferences)
 ============
+23) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
+Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
+**In AISTATS 2021 (to appear)**  
+
 22) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
 Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
 **In ICLR 2021 (to appear)**  
