@@ -44,7 +44,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 Preprints
 ============
 
-01) `[NEW]` [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
+01) [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
 Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
 [Project Page](https://amartya18x.github.io/post/lr_layer/)  
 
