@@ -51,75 +51,71 @@ Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**
 
 Publications (Conferences)
 ============
-23) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
+22) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
 **In AISTATS 2021 (to appear)**  
 
-22) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
+21) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
 Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
 **In ICLR 2021 (to appear)**  
 
-21) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
+20) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
 Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
 **In ICLR 2021 Spotlight (to appear)**  
 
-20) `[NEW]` [**Amending Mistakes Post-hoc in Deep Networks by Leveraging Class Hierarchies**]()  
+19) `[NEW]` [**Amending Mistakes Post-hoc in Deep Networks by Leveraging Class Hierarchies**]()  
 Shyamgopal Karthik, Ameya Prabhu, **_Puneet K. Dokania_** , Vineet Gandhi  
 **In ICLR 2021 (to appear)**  
 
-19) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
+18) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
 Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lopez-Paz  
 **In AAAI 2021 (to appear)**  
 
-18) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
+17) `[NEW]` [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 **In NeurIPS 2020**  
 
-17) `[NEW]` [**Continual Learning in Low-rank Orthogonal Subspaces**]()  
+16) `[NEW]` [**Continual Learning in Low-rank Orthogonal Subspaces**]()  
 Arslan Chaudhry, Naeemullah Khan, **_Puneet K. Dokania_**, Philip H.S. Torr  
 **In NeurIPS 2020**  
 
-16) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]()  
+15) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]()  
 Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ECCV 2020 (Oral)**  
 
-15) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
+14) `[NEW]` [**Stable Rank Normalization for Improved Generalization in Neural Networks and GANs**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ICLR 2020 (Spotlight)**, Addis Ababa Ethiopia  
 
-14) [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**](https://arxiv.org/pdf/1909.11081.pdf)  
+13) [**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation**](https://arxiv.org/pdf/1909.11081.pdf)  
 Arnab Ghosh, Richard Zhang, **_Puneet K. Dokania_**, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman  
 **In ICCV 2019**, Seoul, Korea     
 [Project Page](https://arnabgho.github.io/iSketchNFill/)
 
-13) [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
+12) [**Proximal Mean-field for Neural Network Quantization**](https://arxiv.org/pdf/1812.04353.pdf)  
 Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Richard Hartley, Philip H. S. Torr  
 **In ICCV 2019**, Seoul, Korea 
 
-12) [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
+11) [**Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence**](https://arxiv.org/abs/1801.10112)  
 Arslan Chaudhry\*, **_Puneet K. Dokania\*_**, Thalaiyasingam Ajanthan\*, Philip H. S. Torr  
 **In ECCV 2018**, Munich, Germany   
 [Slides](./data/DokaniaTalk-RWalk.pdf)
 
-11) [**Multi-Agent Diverse Generative Adversarial Networks**](https://arxiv.org/abs/1704.02906)  
+10) [**Multi-Agent Diverse Generative Adversarial Networks**](https://arxiv.org/abs/1704.02906)  
 Arnab Ghosh, Viveka Kulharia, Vinay Namboodiri, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In CVPR 2018 (Spotlight)**, Salt Lake, USA
 
-10) [**FlipDial: A Generative Model for Two-Way Visual Dialogue**](https://arxiv.org/abs/1802.03803)  
+09) [**FlipDial: A Generative Model for Two-Way Visual Dialogue**](https://arxiv.org/abs/1802.03803)  
 Daniela Massiceti, N. Siddharth, **_Puneet K. Dokania_**, Philip H.S. Torr  
 **In CVPR 2018 (Oral)**, Salt Lake, USA   
 [Project Page](http://www.robots.ox.ac.uk/~daniela/research/flipdial/)
 
-09) [**Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1707.05821.pdf)  A. Chaudhry, **_Puneet K. Dokania_**, Philip H. S. Torr  
+08) [**Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1707.05821.pdf)  A. Chaudhry, **_Puneet K. Dokania_**, Philip H. S. Torr  
 **In BMVC 2017 (Oral)**, London, U.K.
 
-08) [**Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1612.02101.pdf)  
+07) [**Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation**](https://arxiv.org/pdf/1612.02101.pdf)  
 Q. Hou*, D. Massiceti*, **_Puneet K. Dokania_**, Y. Wei, M-M. Cheng, Philip H. S. Torr  
-In EMMCVPR 2017, Venice, Italy.
-
-07) [**Deformable Registration through Learning of Context-Specific Metric Aggregation**](https://arxiv.org/pdf/1707.06263.pdf)  
-E. Ferrante\*, **_Puneet K. Dokania\*_**, R. Marini, N. Paragios  
-In MLMI MICCAI 2017, Quebec, Canada.  
+In EMMCVPR 2017, Venice, Italy.  
 
 06) [**Partial Linearization based Optimization for Multi-class SVM**](http://mpawankumar.info/publications/MDJK-ECCV2016.pdf)  
 P. Mohapatra, _**Puneet K. Dokania**_, C. V. Jawahar, M. P. Kumar  
@@ -153,33 +149,37 @@ In MICCAI 2013, Nagoya, Japan.
 
 Publications (Workshops)
 ============
-07) `[NEW]` [**On Batch Normalisation for Approximate Bayesian Inference**](https://arxiv.org/pdf/2012.13220.pdf)  
+08) `[NEW]` [**On Batch Normalisation for Approximate Bayesian Inference**](https://arxiv.org/pdf/2012.13220.pdf)  
 Jishnu Mukhoti, **_Puneet K. Dokania_**, Philip H.S. Torr, Yarin Gal  
 **In 3rd Symposium on Advances in Approximate Bayesian Inference 2020**  
 
-06) `[NEW]` [**Choice of Representation Matter for Adversarial Robustness**]()  
+07) `[NEW]` [**Choice of Representation Matter for Adversarial Robustness**]()  
 Amartya Sanyal, Varun Kanade, **_Puneet K. Dokania_**, Philip H.S. Torr    
 **In NeurIPS 2020 Workshop**, Interpretable Inductive Biases and Physically Structured Learning   
 
-05) `[NEW]` [**Interpolation Noisy Datasets hurt Adversarial Robustness**]()  
+06) `[NEW]` [**Interpolation Noisy Datasets hurt Adversarial Robustness**]()  
 Amartya Sanyal, Varun Kanade, **_Puneet K. Dokania_**, Philip H.S. Torr    
 **In NeurIPS 2020 Workshop**, Dataset Curation and Security  
  
-04) `[NEW]` [**On using Focal Loss for Neural Network Calibration**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-012.pdf)  
+05) `[NEW]` [**On using Focal Loss for Neural Network Calibration**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-012.pdf)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 **In ICML 2020 Workshop (Spotlight)**, Uncertainty and Robustness in Deep Learning
 
-03) [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
+04) [**Stable Rank Normalization for Improved Generalization in Neural Networks**](https://arxiv.org/abs/1906.04659)  
 Amartya Sanyal, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ICML 2019 Workshop**, Understanding and Improving Generalization in Deep Learning,  Long Beach, USA
 
-02) [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
+03) [**Continual Learning with Tiny Episodic Memories**](https://arxiv.org/abs/1902.10486)  
 Arslan Chaudhry, Marcus Rohrbach, Mohamed Elhoseiny, Thalaiyasingam Ajanthan, **_Puneet K. Dokania_**, Philip H. S. Torr, Marc'Aurelio Ranzato  
 **In ICML 2019 Workshop**, MTLRL2019: Workshop on Multi-Task and Lifelong Reinforcement Learning, Long Beach, USA
 
-01) [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
+02) [**Visual Dialogue without Vision or Dialogue**](https://arxiv.org/pdf/1812.06417.pdf)  
 Daniela Massiceti\*, **_Puneet K. Dokania\*_**, N. Siddharth\*, Philip H.S. Torr  
-**In NeurIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada
+**In NeurIPS 2018 Workshop**, Critiquing and Correcting Trends in Machine Learning,  Montréal, Canada  
+
+01) [**Deformable Registration through Learning of Context-Specific Metric Aggregation**](https://arxiv.org/pdf/1707.06263.pdf)  
+E. Ferrante\*, **_Puneet K. Dokania\*_**, R. Marini, N. Paragios  
+In MLMI MICCAI 2017, Quebec, Canada.  
 
 Publications (Journals)
 ======
