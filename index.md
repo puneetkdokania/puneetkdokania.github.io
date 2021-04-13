@@ -33,7 +33,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 * [Jishnu Mukhoti](https://omegafragger.github.io/) (Internship student since Sept 2018)
 
 # Past Students 
-* [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student, Jan 2017 to Nov 2020. Will join DeepMind)
+* [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student, Jan 2017 to Nov 2020. joined DeepMind), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:7a3e5c33-864f-4cfe-8b80-e85cbf651946)
 * [Daniela Massiceti](http://www.robots.ox.ac.uk/~daniela/about) (from October 2016 until Dec 2018. Moved to MSR Cambridge)
 * Anuj Sharma (Masters thesis intern, Feb-Aug 2017, moved to Five AI), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
 
