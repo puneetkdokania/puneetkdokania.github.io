@@ -75,11 +75,11 @@ Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lope
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 **In NeurIPS 2020**  
 
-16) `[NEW]` [**Continual Learning in Low-rank Orthogonal Subspaces**]()  
+16) `[NEW]` [**Continual Learning in Low-rank Orthogonal Subspaces**](https://arxiv.org/pdf/2010.11635.pdf)  
 Arslan Chaudhry, Naeemullah Khan, **_Puneet K. Dokania_**, Philip H.S. Torr  
 **In NeurIPS 2020**  
 
-15) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]()  
+15) `[NEW]` [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf)  
 Ameya Prabhi, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ECCV 2020 (Oral)**  
 
