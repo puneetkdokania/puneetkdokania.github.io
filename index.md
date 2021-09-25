@@ -26,16 +26,18 @@ I work in the field of machine learning (optimization, deep learning, generative
 [MiningPixels]: https://arxiv.org/pdf/1612.02101.pdf  
 
 
-# Amazing PhD Students I closely work with 
-* [Viveka Kulharia](http://vivkul.github.io/) (working since September 2017)
-* [Arnab Ghosh](http://arnabgho.github.io/) (Intern Jan-July 2017, then joined as a PhD student in TVG)
-* [Amartya Sanyal](https://amartya18x.github.io/) (working since August 2018)
-* [Jishnu Mukhoti](https://omegafragger.github.io/) (Internship student since Sept 2018)
+# Amazing PhD Students I closely work with (officially -- implies PhD students I formally co-supervise at Oxford with Phil, write regular reviews/reports for them etc.)
+* [Viveka Kulharia](http://vivkul.github.io/) (officially since Sept 2017)
+* [Amartya Sanyal](https://amartya18x.github.io/) (working since Aug 2018)
+* [Jishnu Mukhoti](https://omegafragger.github.io/) (intern student Sept 2018 to Aug 2019, PhD student since Oct 2019)
+* [Pau de Jorge]() (officially since Oct 2020)
+* [Chen Lin]() (officially since Oct 2020)
 
-# Past Students 
-* [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student, Jan 2017 to Nov 2020. joined DeepMind), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:7a3e5c33-864f-4cfe-8b80-e85cbf651946)
+# Past Students I worked with
+* [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student (official), Jan 2017 to Nov 2020. joined DeepMind), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:7a3e5c33-864f-4cfe-8b80-e85cbf651946)
+* [Arnab Ghosh](http://arnabgho.github.io/) (Intern Jan-July 2017, then joined as a PhD student in TVG and collaborated until the mid of 2019)
 * [Daniela Massiceti](http://www.robots.ox.ac.uk/~daniela/about) (from October 2016 until Dec 2018. Moved to MSR Cambridge)
-* Anuj Sharma (Masters thesis intern, Feb-Aug 2017, moved to Five AI), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
+* Anuj Sharma (Masters thesis intern (official), Feb-Aug 2017, moved to Five AI), [\[Masters Thesis\]](./data/publications/AnujThesis-17.pdf)
 
 [comment]: <> ( <span style="color:red">_\[NEW\]_</span> )
 
