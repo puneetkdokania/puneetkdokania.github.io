@@ -32,6 +32,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 * [Jishnu Mukhoti](https://omegafragger.github.io/) (intern student Sept 2018 to Aug 2019, PhD student since Oct 2019)
 * [Pau de Jorge]() (officially since Oct 2020)
 * [Chen Lin]() (officially since Oct 2020)
+* [Ameya Prabhu](https://drimpossible.github.io/about) (working as a PhD student since Oct 2020)
 
 # Past Students I worked with
 * [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student (official), Jan 2017 to Nov 2020. joined DeepMind), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:7a3e5c33-864f-4cfe-8b80-e85cbf651946)
