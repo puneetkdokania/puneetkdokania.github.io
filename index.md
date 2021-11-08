@@ -56,23 +56,23 @@ Publications (Conferences)
 ============
 22) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
-**In AISTATS 2021 **  
+**In AISTATS 2021**  
 
 21) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
 Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
-**In ICLR 2021 **  
+**In ICLR 2021**  
 
 20) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
 Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
-**In ICLR 2021 Spotlight **  
+**In ICLR 2021 Spotlight**  
 
 19) `[NEW]` [**No Cost Likelihood Manipulation at Test Time For Making Better Mistakes in Deep Networks**](https://arxiv.org/abs/2104.00795)  
 Shyamgopal Karthik, Ameya Prabhu, **_Puneet K. Dokania_** , Vineet Gandhi  
-**In ICLR 2021 **  
+**In ICLR 2021**  
 
 18) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
 Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lopez-Paz  
-**In AAAI 2021 **  
+**In AAAI 2021**  
 
 17) [**Calibrating Deep Neural Networks using Focal Loss**](https://arxiv.org/abs/2002.09437)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
