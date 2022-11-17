@@ -7,12 +7,12 @@ comments: false
 
 Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at an amazing startup based in Cambridge (U.K.) called [Five AI](http://www.five.ai/) where we are trying to build driverless cars.
 
-At Oxford University, I primarily supervise a few PhD (DPhil) students working on topics realated to robustness, continual learning, efficient methods for neural network training etc. At Five AI, I lead a small team of cool research scientists and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help their applied engineering team in building research based products.
+At Oxford University, I primarily supervise a few PhD (DPhil) students working on topics realated to robustness, continual learning, efficient methods for neural network training etc. At Five AI, I lead a small team of cool research scientists and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help their applied engineering team in building research-based products.
 
-During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
+During my PhD in my previous life, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
 # Research Interests
-I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
+I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below a few research areas (and related articles) that I am excited about.
 * NN Robustness: [RegMixup (NeurIPS22)](https://arxiv.org/abs/2206.14502), [Make some noise (NeurIPS22)](https://arxiv.org/pdf/2202.01181), [CNNs vs Transformers Contest (ECCV22)](https://arxiv.org/pdf/2207.11347), [Making better mistakes (ICLR21)](https://arxiv.org/pdf/2104.00795), [Benign Overfitting (ICLR21)](https://arxiv.org/pdf/2007.04028.pdf), [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
 * Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic (ICML19-WS)](https://arxiv.org/abs/1902.10486), [GDumb (ECCV20)](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf), [Orthog-CL (NeurIPS20)](https://papers.nips.cc/paper/2020/file/70d85f35a1fdc0ab701ff78779306407-Paper.pdf), [Hindsight (AAAI 21)](https://arxiv.org/pdf/2002.08165.pdf)
 * Neural Network Discretization/Pruning: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf), [MD (AISTATS21)](https://arxiv.org/pdf/1910.08237.pdf), [FORCE (ICLR21)](https://arxiv.org/pdf/2006.09081.pdf)
@@ -28,7 +28,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 [MiningPixels]: https://arxiv.org/pdf/1612.02101.pdf  
 
 # Research Collaborators
-I have had the opportunity to learn from and collaborate with with many brilliant people from a variety of institutions such as UC Berkeley, INRIA, Adobe, Meta, IIIT Hyderabad, IIT Kanpur, Huawei, KAUST, Naver Labs, ANU Australia, EPFL etc.
+I have had the opportunity to learn from and collaborate with with many brilliant people from a variety of institutions such as UC Berkeley, INRIA, Adobe research, Meta, IIIT Hyderabad, IIT Kanpur, Huawei, KAUST, Naver Labs, ANU Australia, EPFL etc.
 
 # Amazing PhD Students I closely work with (officially -- implies PhD students I formally co-supervise at Oxford with Phil, write regular reviews/reports for them etc.)
 * [Viveka Kulharia](http://vivkul.github.io/) (officially since Sept 2017)
