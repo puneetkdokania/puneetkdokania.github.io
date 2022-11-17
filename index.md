@@ -7,11 +7,13 @@ comments: false
 
 Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at an amazing startup based in Cambridge (U.K.) called [Five AI](http://www.five.ai/) where we are trying to build driverless cars.
 
+At Oxford University, I primarily supervise a few PhD (DPhil) students working on topics realated to robustness, continual learning, efficient methods for neural network training etc. At Five AI, I lead a small team of cool research scientists and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help their applied engineering team in building research based products.
+
 During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below few research areas (and related articles) that I am currently excited about.
-* NN Robustness: [Benign Overfitting (ICLR21)](https://arxiv.org/pdf/2007.04028.pdf), [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
+* NN Robustness: [RegMixup (NeurIPS22)](https://arxiv.org/abs/2206.14502), [Make some noise (NeurIPS22)](https://arxiv.org/pdf/2202.01181), [CNNs vs Transformers Contest (ECCV22)](https://arxiv.org/pdf/2207.11347), [Making better mistakes (ICLR21)](https://arxiv.org/pdf/2104.00795), [Benign Overfitting (ICLR21)](https://arxiv.org/pdf/2007.04028.pdf), [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
 * Incremental Learning: [RWalk (ECCV18)][RWalk], [Tiny Episodic (ICML19-WS)](https://arxiv.org/abs/1902.10486), [GDumb (ECCV20)](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf), [Orthog-CL (NeurIPS20)](https://papers.nips.cc/paper/2020/file/70d85f35a1fdc0ab701ff78779306407-Paper.pdf), [Hindsight (AAAI 21)](https://arxiv.org/pdf/2002.08165.pdf)
 * Neural Network Discretization/Pruning: [ProxMeanField (ICCV19)](https://arxiv.org/pdf/1812.04353.pdf), [MD (AISTATS21)](https://arxiv.org/pdf/1910.08237.pdf), [FORCE (ICLR21)](https://arxiv.org/pdf/2006.09081.pdf)
 * Generative Models: [MAD-GAN (CVPR18)][MAD-GAN], [Interactive Sketch (ICCV19)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ghosh_Interactive_Sketch__Fill_Multiclass_Sketch-to-Image_Translation_ICCV_2019_paper.pdf)
@@ -25,6 +27,8 @@ I work in the field of machine learning (optimization, deep learning, generative
 [DCSP]: https://arxiv.org/pdf/1707.05821.pdf  
 [MiningPixels]: https://arxiv.org/pdf/1612.02101.pdf  
 
+# Research Collaborators
+I have had the opportunity to learn from and collaborate with with many brilliant people from a variety of institutions such as UC Berkeley, INRIA, Adobe, Meta, IIIT Hyderabad, IIT Kanpur, Huawei, KAUST, Naver Labs, ANU Australia, EPFL etc.
 
 # Amazing PhD Students I closely work with (officially -- implies PhD students I formally co-supervise at Oxford with Phil, write regular reviews/reports for them etc.)
 * [Viveka Kulharia](http://vivkul.github.io/) (officially since Sept 2017)
@@ -54,23 +58,39 @@ Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**
 
 Publications (Conferences)
 ============
-22) `[NEW]` [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
+26) `[NEW]` [**RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out Distribution Robustness**](https://arxiv.org/pdf/2206.14502.pdf)  
+Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_**  
+**In NeurIPS 2022** 
+
+25) `[NEW]` [**Make Some Noise: Reliable and Efficient Single-Step Adversarial Training**](https://arxiv.org/pdf/2202.01181.pdf)  
+Pau de Jorge, Adel Bibi, Riccardo Volpi, Amartya Sanyal, Philip HS Torr, Gregory Rogez, **_Puneet K. Dokania_**  
+**In NeurIPS 2022** 
+
+24) `[NEW]` [**An Impartial Take to the CNN vs Transformer Robustness Contestn**](https://arxiv.org/pdf/2207.11347)  
+Francesco Pinto, Philip H. S. Torr, **_Puneet K. Dokania_**  
+**In ECCV 2022** 
+
+23) [**A Continuous Mapping For Augmentation Design**](https://proceedings.neurips.cc/paper/2021/file/7230b2b03e2da37352abf1a659545b44-Paper.pdf)  
+Keyu Tian\*, Chen Lin\*, Ser-Nam Lim, Wanli Ouyang, **_Puneet K. Dokania_**, Philip H. S. Torr  
+**In NeurIPS 2021** 
+
+22) [**Mirror Descent View for Neural Network Quantization**](https://arxiv.org/pdf/1910.08237.pdf)  
 Thalaiyasingam Ajanthan\*, Kartik Gupta\*, Philip H. S. Torr, Richard Hartley, **_Puneet K. Dokania_**  
 **In AISTATS 2021**  
 
-21) `[NEW]` [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
+21) [**Progressive Skeletonization: Trimming more fat from a network at initialization**](https://arxiv.org/pdf/2006.09081.pdf)  
 Pau de Jorge, Amartya Sanyal, Harkirat S. Behl,  Gregory Rogez, **_Puneet K. Dokania_**  
 **In ICLR 2021**  
 
-20) `[NEW]` [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
+20) [**How benign is benign overfitting?**](https://arxiv.org/pdf/2007.04028.pdf)  
 Amartya Sanyal, **_Puneet K. Dokania_**, Varun Kanade, Philip H. S. Torr  
 **In ICLR 2021 Spotlight**  
 
-19) `[NEW]` [**No Cost Likelihood Manipulation at Test Time For Making Better Mistakes in Deep Networks**](https://arxiv.org/abs/2104.00795)  
+19) [**No Cost Likelihood Manipulation at Test Time For Making Better Mistakes in Deep Networks**](https://arxiv.org/abs/2104.00795)  
 Shyamgopal Karthik, Ameya Prabhu, **_Puneet K. Dokania_** , Vineet Gandhi  
 **In ICLR 2021**  
 
-18) `[NEW]` [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
+18) [**Using Hindsight to Anchor Past Knowledge in Continual Learning**](https://arxiv.org/pdf/2002.08165.pdf)  
 Arslan Chaudhry, Albert Gordo, **_Puneet K. Dokania_** , Philip Torr, David Lopez-Paz  
 **In AAAI 2021**  
 
