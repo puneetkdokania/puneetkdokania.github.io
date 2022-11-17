@@ -11,6 +11,8 @@ At Oxford University, I primarily supervise a few PhD (DPhil) students working o
 
 During my PhD in my previous life, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
+**_I am excited and humbled to serve as a Programme Chair at [BMVC 2022](https://bmvc2022.org/) (The 33rd British Machine Vision Conference)_**
+
 # Research Interests
 I work in the field of machine learning (optimization, deep learning, generative models etc.) and its applications to vision and language. Please find below a few research areas (and related articles) that I am excited about.
 * NN Robustness: [RegMixup (NeurIPS22)](https://arxiv.org/abs/2206.14502), [Make some noise (NeurIPS22)](https://arxiv.org/pdf/2202.01181), [CNNs vs Transformers Contest (ECCV22)](https://arxiv.org/pdf/2207.11347), [Making better mistakes (ICLR21)](https://arxiv.org/pdf/2104.00795), [Benign Overfitting (ICLR21)](https://arxiv.org/pdf/2007.04028.pdf), [Low Rank Feature](https://amartya18x.github.io/post/lr_layer/), [Stable Rank (ICLR20)](https://arxiv.org/pdf/1906.04659.pdf), [Focal Loss Calibration (NeurIPS20)](https://arxiv.org/pdf/2002.09437.pdf)
