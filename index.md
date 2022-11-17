@@ -206,6 +206,14 @@ In MLMI MICCAI 2017, Quebec, Canada.
 
 Publications (Journals)
 ======
+06) [**Ancer: Anisotropic certification via sample-wise volume maximization**](https://arxiv.org/pdf/2107.04570.pdf)  
+Francisco Eiras, Motasem Alfarra, M Pawan Kumar, Philip HS Torr, _**Puneet K Dokania**_, Bernard Ghanem, Adel Bibi  
+In Transactions on Machine Learning Research (TMLR), 2022.
+
+05) [**Diagnosing and Preventing Instabilities in Recurrent Video Processing**](https://arxiv.org/abs/2010.05099)  
+Thomas Tanay, Aivar Sootla, Matteo Maggioni, _**Puneet K. Dokania**_, Philip Torr, Ales Leonardis, Gregory Slabaugh  
+In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
+
 04) [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
 Enzo Ferrante, _**Puneet K. Dokania**_, Rafael M. Silva, N. Paragios  
 In IEEE Journal of Biomedical and Health Informatics, 2018.
