@@ -60,6 +60,14 @@ Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**
 
 Publications (Conferences)
 ============
+28) `[NEW]` [**Sample-dependent Adaptive Temperature Scaling for Improved Calibration**](https://arxiv.org/abs/2207.06211)  
+Tom Joy, Francesco Pinto, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_**  
+**In AAAI 2023 (Safe and Robust AI track)** 
+
+27) `[NEW]` [**Query-based Hard-Image Retrieval for Object Detection at Test Time**](https://arxiv.org/abs/2209.11559)  
+Edward Ayers, Jonathan Sadeghi, John Redford, Romain Mueller, **_Puneet K. Dokania_**  
+**In AAAI 2023 (Safe and Robust AI track)** 
+
 26) `[NEW]` [**RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out Distribution Robustness**](https://arxiv.org/pdf/2206.14502.pdf)  
 Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_**  
 **In NeurIPS 2022** 
