@@ -9,7 +9,7 @@ Hi, I'm a _senior researcher_ in machine learning and computer vision at the [To
 
 At Oxford University, I primarily supervise PhD (DPhil) students working on topics related to robustness, continual learning, efficient methods for neural network training etc. At Five AI Oxford office, I lead a small team of cool research scientists, and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help the applied engineering team of Five AI in building research-based products.
 
-During my PhD in my previous life, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
+During my PhD, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I was supervised by [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
 **_I am excited and humbled to serve as a Programme Chair at [BMVC 2022](https://bmvc2022.org/) (The 33rd British Machine Vision Conference)_**
 
