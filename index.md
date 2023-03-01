@@ -5,9 +5,9 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at an amazing startup based in Cambridge (U.K.) called [Five AI](http://www.five.ai/) where we are trying to build driverless cars.
+Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at [Five AI](http://www.five.ai/) Oxford, a cool startup recently acquired by Bosch. At Five, we are helping in building the technology for driverless cars.
 
-At Oxford University, I primarily supervise a few PhD (DPhil) students working on topics related to robustness, continual learning, efficient methods for neural network training etc. At Five AI Oxford office, I lead a small team of cool research scientists, and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help the applied engineering team of Five AI in building research-based products.
+At Oxford University, I primarily supervise a PhD (DPhil) students working on topics related to robustness, continual learning, efficient methods for neural network training etc. At Five AI Oxford office, I lead a small team of cool research scientists, and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help the applied engineering team of Five AI in building research-based products.
 
 During my PhD in my previous life, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
@@ -32,15 +32,17 @@ I work in the field of machine learning (optimization, deep learning, generative
 # Research Collaborators
 I have had the opportunity to learn from and collaborate with with many brilliant people from a variety of institutions such as UC Berkeley, INRIA, Adobe research, Meta, IIIT Hyderabad, IIT Kanpur, Huawei, KAUST, Naver Labs, ANU Australia, EPFL etc.
 
-# Amazing PhD Students I closely work with (officially -- implies PhD students I formally co-supervise at Oxford with Phil, write regular reviews/reports for them etc.)
-* [Viveka Kulharia](http://vivkul.github.io/) (officially since Sept 2017)
-* [Amartya Sanyal](https://amartya18x.github.io/) (working since Aug 2018)
+# Amazing PhD Students I closely work with 
+(officially -- implies PhD students I formally co-supervise at Oxford with Phil, write regular reviews/reports for them etc.)
+* [Francesco Pinto]() (since 2020)
 * [Jishnu Mukhoti](https://omegafragger.github.io/) (intern student Sept 2018 to Aug 2019, PhD student since Oct 2019)
 * [Pau de Jorge]() (officially since Oct 2020)
 * [Chen Lin]() (officially since Oct 2020)
 * [Ameya Prabhu](https://drimpossible.github.io/about) (working as a PhD student since Oct 2020)
 
 # Past Students I worked with
+* [Viveka Kulharia](http://vivkul.github.io/) (officially, 2017 to 2021), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:29038a0f-5253-49ed-8726-7333d7b41d45)
+* [Amartya Sanyal](https://amartya18x.github.io/) (2018 to 2021)
 * [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student (official), Jan 2017 to Nov 2020. joined DeepMind), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:7a3e5c33-864f-4cfe-8b80-e85cbf651946)
 * [Arnab Ghosh](http://arnabgho.github.io/) (Intern Jan-July 2017, then joined as a PhD student in TVG and collaborated until the mid of 2019)
 * [Daniela Massiceti](http://www.robots.ox.ac.uk/~daniela/about) (from October 2016 until Dec 2018. Moved to MSR Cambridge)
