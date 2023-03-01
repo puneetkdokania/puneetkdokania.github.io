@@ -7,7 +7,7 @@ comments: false
 
 Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at [Five AI](http://www.five.ai/) Oxford, a cool startup recently acquired by Bosch. At Five, we are helping in building the technology for driverless cars.
 
-At Oxford University, I primarily supervise a PhD (DPhil) students working on topics related to robustness, continual learning, efficient methods for neural network training etc. At Five AI Oxford office, I lead a small team of cool research scientists, and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help the applied engineering team of Five AI in building research-based products.
+At Oxford University, I primarily supervise PhD (DPhil) students working on topics related to robustness, continual learning, efficient methods for neural network training etc. At Five AI Oxford office, I lead a small team of cool research scientists, and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help the applied engineering team of Five AI in building research-based products.
 
 During my PhD in my previous life, I was part of [CVN](http://cvn.centralesupelec.fr/) group of [INRIA](https://www.inria.fr/en/) and [CentraleSupélec](http://www.centralesupelec.fr/) where I worked under [Prof. M. Pawan Kumar](http://mpawankumar.info/) and [Prof. Nikos Paragios]() from October 2012 to March 2016.  
 
