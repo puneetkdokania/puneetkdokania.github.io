@@ -32,7 +32,7 @@ I work in the field of machine learning (optimization, deep learning, generative
 # Research Collaborators
 I have had the opportunity to learn from and collaborate with with many brilliant people from a variety of institutions such as UC Berkeley, INRIA, Adobe research, Meta, IIIT Hyderabad, IIT Kanpur, Huawei, KAUST, Naver Labs, ANU Australia, EPFL etc.
 
-# Amazing PhD Students I closely work with 
+# Amazing PhD students I closely work with 
 (officially -- implies PhD students I formally co-supervise at Oxford with Phil, write regular reviews/reports for them etc.)
 * [Francesco Pinto]() (since 2020)
 * [Jishnu Mukhoti](https://omegafragger.github.io/) (intern student Sept 2018 to Aug 2019, PhD student since Oct 2019)
@@ -40,7 +40,7 @@ I have had the opportunity to learn from and collaborate with with many brillian
 * [Chen Lin]() (officially since Oct 2020)
 * [Ameya Prabhu](https://drimpossible.github.io/about) (working as a PhD student since Oct 2020)
 
-# Past Students I worked with
+# Past students I worked with
 * [Viveka Kulharia](http://vivkul.github.io/) (officially, 2017 to 2021), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:29038a0f-5253-49ed-8726-7333d7b41d45)
 * [Amartya Sanyal](https://amartya18x.github.io/) (2018 to 2021)
 * [Arslan Chaudhry](https://arslan-chaudhry.github.io/index.html) (PhD student (official), Jan 2017 to Nov 2020. joined DeepMind), [\[PhD Thesis\]](https://ora.ox.ac.uk/objects/uuid:7a3e5c33-864f-4cfe-8b80-e85cbf651946)
