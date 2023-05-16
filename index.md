@@ -86,7 +86,7 @@ Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_*
 Pau de Jorge, Adel Bibi, Riccardo Volpi, Amartya Sanyal, Philip HS Torr, Gregory Rogez, **_Puneet K. Dokania_**  
 **In NeurIPS 2022** 
 
-24) `[NEW]` [**An Impartial Take to the CNN vs Transformer Robustness Contestn**](https://arxiv.org/pdf/2207.11347)  
+24) `[NEW]` [**An Impartial Take to the CNN vs Transformer Robustness Contest**](https://arxiv.org/pdf/2207.11347)  
 Francesco Pinto, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ECCV 2022** 
 
