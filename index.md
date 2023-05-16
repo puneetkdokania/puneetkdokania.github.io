@@ -5,7 +5,7 @@ date: 2018-06-04 16:25:06 -0700
 comments: false
 ---
 
-Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _principal researcher_ at [Five AI](http://www.five.ai/) Oxford, a cool startup recently acquired by Bosch. At Five, we are helping in building the technology for driverless cars.
+Hi, I'm a _senior researcher_ in machine learning and computer vision at the [Torr Vision Group (University of Oxford)](http://www.robots.ox.ac.uk/~tvg/) and a _research director_ at [Five AI](http://www.five.ai/) Oxford, a cool startup recently acquired by Bosch. At Five, we are helping in building the technology for driverless cars.
 
 At Oxford University, I primarily supervise PhD (DPhil) students working on topics related to robustness, continual learning, efficient methods for neural network training etc. At Five AI Oxford office, I lead a small team of cool research scientists, and also help the company in shaping their research agenda related to the perception side of their underlying AI systems. I also help the applied engineering team of Five AI in building research-based products.
 
@@ -62,6 +62,14 @@ Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**
 
 Publications (Conferences)
 ============
+30) `[NEW]` [**Towards Building Self-Aware Object Detectors via Reliable Uncertainty Quantification and Calibration**]()  
+Kemal Oksuz, Tom Joy, **_Puneet K. Dokania_**  
+**In CVPR 2023 (Vancouver Canada)** 
+
+29) `[NEW]` [**Computationally Budgeted Continual Learning: What Does Matter?**](https://arxiv.org/pdf/2303.11165.pdf)  
+Ameya Prabhu, Hasan Abed Al Kader Hammoud, **_Puneet K. Dokania_**, Philip HS Torr, Ser-Nam Lim, Bernard Ghanem, Adel Bibi  
+**In CVPR 2023 (Vancouver Canada)** 
+
 28) `[NEW]` [**Sample-dependent Adaptive Temperature Scaling for Improved Calibration**](https://arxiv.org/abs/2207.06211)  
 Tom Joy, Francesco Pinto, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_**  
 **In AAAI 2023 (Safe and Robust AI track)** 
