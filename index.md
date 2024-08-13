@@ -54,15 +54,45 @@ I have had the opportunity to learn from and collaborate with with many brillian
 
 Preprints
 ============
+05) `[NEW]` [**What Makes and Breaks Safety Fine-tuning? A Mechanistic Study**](https://arxiv.org/pdf/2407.10264)  
+Samyak Jain, Ekdeep Singh Lubana, Kemal Oksuz, Tom Joy, Philip HS Torr, Amartya Sanyal, **Puneet K Dokania**  
+arXiv 2024  
+
+04) `[NEW]` [**MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection**](https://arxiv.org/pdf/2309.14976)  
+Kemal Oksuz, Selim Kuzucu, Tom Joy, and **Puneet K. Dokania**  
+arXiv 2024  
+
+03) `[NEW]` [**Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation**](https://arxiv.org/abs/2310.13479)  
+Francisco Eiras, Kemal Oksuz, Adel Bibi, Philip H.S. Torr, **Puneet K. Dokania**  
+arXiv 2023  
+
+02) [**Online Continual Learning Without the Storage Constraint**](https://arxiv.org/pdf/2305.09253)  
+Ameya Prabhu, Zhipeng Cai, **Puneet Dokania** , Philip Torr, Vladlen Koltun, and Ozan Sener    
+arXiv 2023  
 
 01) [**Robustness via Deep Low-Rank Representations**](https://arxiv.org/abs/1804.07090v5)  
 Amartya Sanyal, Varun Kanade, Philip H. S. Torr, **_Puneet K. Dokania_**  
 [Project Page](https://amartya18x.github.io/post/lr_layer/)  
 
-
 Publications (Conferences)
 ============
-30) `[NEW]` [**Towards Building Self-Aware Object Detectors via Reliable Uncertainty Quantification and Calibration**]()  
+34) `[NEW]` [**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**](https://arxiv.org/pdf/2405.20459)  
+Selim Kuzucu*, Kemal Oksuz*, Jonathan Sadeghi, and **Puneet K. Dokania**  
+**In ECCV 2024 (Milan, Italy), Oral presentation**  
+
+33) `[NEW]` [**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**](https://arxiv.org/pdf/2402.16392)  
+Pau de Jorge, Riccardo Volpi, **Puneet K Dokania**, Philip HS Torr, Grégory Rogez  
+**In ECCV 2024 (Milan, Italy)**  
+
+32) `[NEW]` [**Fine-tuning can cripple your foundation model; preserving features may be the solution**](https://arxiv.org/pdf/2308.13320)  
+Jishnu Mukhoti, Yarin Gal, Philip HS Torr, **Puneet K Dokania**  
+**In In Transactions on Machine Learning Research (TMLR) 2024, Featured Certification**  
+
+31) [**Graph Inductive Biases in Transformers without Message Passing**](https://arxiv.org/abs/2305.17589)  
+Liheng Ma, Chen Lin, Derek Lim, Adriana Romero-Soriano, **Puneet K. Dokania**, Mark Coates, Philip Torr, Ser-Nam Lim  
+**In ICML 2023 (Hawaii)**  
+
+30) [**Towards Building Self-Aware Object Detectors via Reliable Uncertainty Quantification and Calibration**](https://arxiv.org/abs/2307.00934)  
 Kemal Oksuz, Tom Joy, **_Puneet K. Dokania_**  
 **In CVPR 2023 (Vancouver Canada)** 
 
@@ -226,29 +256,33 @@ In MLMI MICCAI 2017, Quebec, Canada.
 
 Publications (Journals)
 ======
+07) `[NEW]` [**Catastrophic overfitting can be induced with discriminative non-robust features**](https://arxiv.org/abs/2206.08242)  
+Guillermo Ortiz-Jiménez, Pau de Jorge, Amartya Sanyal, Adel Bibi, **Puneet K. Dokania**, Pascal Frossard, Gregory Rogéz, Philip H.S. Torr
+In Transactions on Machine Learning Research (TMLR), 2023.  
+
 06) [**Ancer: Anisotropic certification via sample-wise volume maximization**](https://arxiv.org/pdf/2107.04570.pdf)  
 Francisco Eiras, Motasem Alfarra, M Pawan Kumar, Philip HS Torr, _**Puneet K Dokania**_, Bernard Ghanem, Adel Bibi  
-In Transactions on Machine Learning Research (TMLR), 2022.
+In Transactions on Machine Learning Research (TMLR), 2022.  
 
 05) [**Diagnosing and Preventing Instabilities in Recurrent Video Processing**](https://arxiv.org/abs/2010.05099)  
 Thomas Tanay, Aivar Sootla, Matteo Maggioni, _**Puneet K. Dokania**_, Philip Torr, Ales Leonardis, Gregory Slabaugh  
-In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
+In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.  
 
 04) [**Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration**](https://ieeexplore.ieee.org/document/8458414/)  
 Enzo Ferrante, _**Puneet K. Dokania**_, Rafael M. Silva, N. Paragios  
-In IEEE Journal of Biomedical and Health Informatics, 2018.
+In IEEE Journal of Biomedical and Health Informatics, 2018.  
 
 03) [**Rounding-based Moves for Semi-Metric Labeling**](http://jmlr.org/papers/v17/14-454.html)  
 M. Pawan Kumar and **_Puneet K. Dokania_**  
-In JMLR 2016.
+In JMLR 2016.  
 
 02) [**High Dynamic Range Fuzzy Color Image Enhancement Using Ant Colony System**](https://www.sciencedirect.com/science/article/pii/S1568494611003164)  
 O. P. Verma, **_P. Kumar_** , M. Hanmandlu, S. Chhabra  
-In Journal of Applied Soft Computing, 2012.
+In Journal of Applied Soft Computing, 2012.  
 
 01) [**A Novel Bacterial Foraging Technique for Edge Detection**](https://www.sciencedirect.com/science/article/pii/S0167865511000730)  
 O. P. Verma, M. Hanmandlu, **_P. Kumar_** , S. Chhabra, A. Jindal  
-In Pattern Recognition Letters, 2011.
+In Pattern Recognition Letters, 2011.  
 
 Technical Reports and Thesis
 ======
