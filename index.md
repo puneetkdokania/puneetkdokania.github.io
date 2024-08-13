@@ -86,7 +86,7 @@ Pau de Jorge, Riccardo Volpi, **Puneet K Dokania**, Philip HS Torr, Grégory Rog
 
 32) `[NEW]` [**Fine-tuning can cripple your foundation model; preserving features may be the solution**](https://arxiv.org/pdf/2308.13320)  
 Jishnu Mukhoti, Yarin Gal, Philip HS Torr, **Puneet K Dokania**  
-**In In Transactions on Machine Learning Research (TMLR) 2024, Featured Certification**  
+**In Transactions on Machine Learning Research (TMLR) 2024, Featured Certification**  
 
 31) [**Graph Inductive Biases in Transformers without Message Passing**](https://arxiv.org/abs/2305.17589)  
 Liheng Ma, Chen Lin, Derek Lim, Adriana Romero-Soriano, **Puneet K. Dokania**, Mark Coates, Philip Torr, Ser-Nam Lim  
