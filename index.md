@@ -96,27 +96,27 @@ Liheng Ma, Chen Lin, Derek Lim, Adriana Romero-Soriano, **Puneet K. Dokania**, M
 Kemal Oksuz, Tom Joy, **_Puneet K. Dokania_**  
 **In CVPR 2023 (Vancouver Canada)** 
 
-29) `[NEW]` [**Computationally Budgeted Continual Learning: What Does Matter?**](https://arxiv.org/pdf/2303.11165.pdf)  
+29) [**Computationally Budgeted Continual Learning: What Does Matter?**](https://arxiv.org/pdf/2303.11165.pdf)  
 Ameya Prabhu, Hasan Abed Al Kader Hammoud, **_Puneet K. Dokania_**, Philip HS Torr, Ser-Nam Lim, Bernard Ghanem, Adel Bibi  
 **In CVPR 2023 (Vancouver Canada)** 
 
-28) `[NEW]` [**Sample-dependent Adaptive Temperature Scaling for Improved Calibration**](https://arxiv.org/abs/2207.06211)  
+28) [**Sample-dependent Adaptive Temperature Scaling for Improved Calibration**](https://arxiv.org/abs/2207.06211)  
 Tom Joy, Francesco Pinto, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_**  
 **In AAAI 2023 (Safe and Robust AI track)** 
 
-27) `[NEW]` [**Query-based Hard-Image Retrieval for Object Detection at Test Time**](https://arxiv.org/abs/2209.11559)  
+27) [**Query-based Hard-Image Retrieval for Object Detection at Test Time**](https://arxiv.org/abs/2209.11559)  
 Edward Ayers, Jonathan Sadeghi, John Redford, Romain Mueller, **_Puneet K. Dokania_**  
 **In AAAI 2023 (Safe and Robust AI track)** 
 
-26) `[NEW]` [**RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out Distribution Robustness**](https://arxiv.org/pdf/2206.14502.pdf)  
+26) [**RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out Distribution Robustness**](https://arxiv.org/pdf/2206.14502.pdf)  
 Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip HS Torr, **_Puneet K. Dokania_**  
 **In NeurIPS 2022** 
 
-25) `[NEW]` [**Make Some Noise: Reliable and Efficient Single-Step Adversarial Training**](https://arxiv.org/pdf/2202.01181.pdf)  
+25) [**Make Some Noise: Reliable and Efficient Single-Step Adversarial Training**](https://arxiv.org/pdf/2202.01181.pdf)  
 Pau de Jorge, Adel Bibi, Riccardo Volpi, Amartya Sanyal, Philip HS Torr, Gregory Rogez, **_Puneet K. Dokania_**  
 **In NeurIPS 2022** 
 
-24) `[NEW]` [**An Impartial Take to the CNN vs Transformer Robustness Contest**](https://arxiv.org/pdf/2207.11347)  
+24) [**An Impartial Take to the CNN vs Transformer Robustness Contest**](https://arxiv.org/pdf/2207.11347)  
 Francesco Pinto, Philip H. S. Torr, **_Puneet K. Dokania_**  
 **In ECCV 2022** 
 
@@ -222,19 +222,19 @@ In MICCAI 2013, Nagoya, Japan.
 
 Publications (Workshops)
 ============
-08) `[NEW]` [**On Batch Normalisation for Approximate Bayesian Inference**](https://arxiv.org/pdf/2012.13220.pdf)  
+08) [**On Batch Normalisation for Approximate Bayesian Inference**](https://arxiv.org/pdf/2012.13220.pdf)  
 Jishnu Mukhoti, **_Puneet K. Dokania_**, Philip H.S. Torr, Yarin Gal  
 **In 3rd Symposium on Advances in Approximate Bayesian Inference 2020**  
 
-07) `[NEW]` [**Choice of Representation Matter for Adversarial Robustness**]()  
+07) [**Choice of Representation Matter for Adversarial Robustness**]()  
 Amartya Sanyal, Varun Kanade, **_Puneet K. Dokania_**, Philip H.S. Torr    
 **In NeurIPS 2020 Workshop**, Interpretable Inductive Biases and Physically Structured Learning   
 
-06) `[NEW]` [**Interpolation Noisy Datasets hurt Adversarial Robustness**]()  
+06) [**Interpolation Noisy Datasets hurt Adversarial Robustness**]()  
 Amartya Sanyal, Varun Kanade, **_Puneet K. Dokania_**, Philip H.S. Torr    
 **In NeurIPS 2020 Workshop**, Dataset Curation and Security  
  
-05) `[NEW]` [**On using Focal Loss for Neural Network Calibration**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-012.pdf)  
+05) [**On using Focal Loss for Neural Network Calibration**](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-012.pdf)  
 Jishnu Mukhoti\*, Viveka Kulharia\*, Amartya Sanyal, Stuart Golodetz, Philip H.S. Torr, **_Puneet K. Dokania_**  
 **In ICML 2020 Workshop (Spotlight)**, Uncertainty and Robustness in Deep Learning
 
@@ -256,7 +256,7 @@ In MLMI MICCAI 2017, Quebec, Canada.
 
 Publications (Journals)
 ======
-07) `[NEW]` [**Catastrophic overfitting can be induced with discriminative non-robust features**](https://arxiv.org/abs/2206.08242)  
+07) [**Catastrophic overfitting can be induced with discriminative non-robust features**](https://arxiv.org/abs/2206.08242)  
 Guillermo Ortiz-Jiménez, Pau de Jorge, Amartya Sanyal, Adel Bibi, **Puneet K. Dokania**, Pascal Frossard, Gregory Rogéz, Philip H.S. Torr
 In Transactions on Machine Learning Research (TMLR), 2023.  
 
